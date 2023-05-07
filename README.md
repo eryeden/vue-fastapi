@@ -14,9 +14,9 @@ cd vue-fastapi
 npm dev run
 ```
 
-There seem to be two options to run the dev servers:
-- A docker(docker-compose)
-- Running dev servers in a local environment separately
+It appears there are two options for running development servers:
+- Using a docker(with docker-compose)
+- Running development servers separately in a local environment
 
 ## Configurations
 You need to make sure the configurations are properly set for both FastAPI and Vue.js.
