@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Top from '../components/Top.vue'
+import Api from '../components/Api.vue'
 
 
 const router = createRouter({
@@ -10,6 +11,11 @@ const router = createRouter({
       name: 'top',
       component: Top
     },
+    {
+      path: '/api',
+      name: 'api',
+      component: Api
+    }
   ]
 })
 

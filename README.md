@@ -42,5 +42,6 @@ poetry add fastapi[all]
 ```bash
 npm init vue@latest
 cd vue-fastapi/
+npm install axios vue-axios
 npm install
 ```

@@ -3,6 +3,8 @@
 
 <template>
     <h3>The top</h3>
+    <br/>
+    <a href="/api">API</a>
 </template>
 
 <style scoped>
